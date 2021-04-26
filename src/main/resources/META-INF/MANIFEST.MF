@@ -1,0 +1,2 @@
+Main-Class: codes.waves.stfubot.Main
+Manifest-Version: 1.0
