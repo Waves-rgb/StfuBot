@@ -1,4 +1,4 @@
-<p style="align-content: center">
+<p style="align-items: center">
     <img src="./art/icon.png" width="50%">
 </p>
 
