@@ -1,5 +1,7 @@
 
-<img align="center" src="./art/icon.png" width="50%">
+<p align="center">
+<img src="./art/icon.png" width="50%">
+</p>
 
 # Stfu bot
 
@@ -26,4 +28,4 @@ java -jar ./StfuBot_V2.jar <bot token>
 To get the bot to join your voice channel and start listening to people and disconnecting them, simply type `stfu!listen` into any channel the bot can see.
 </p>
 
-<p style="font-size: 10px">i really need to improve this readme lmao but its like 4 am</p>
+<p align="center" style="font-size: 10px">i really need to improve this readme lmao but its like 4 am</p>
