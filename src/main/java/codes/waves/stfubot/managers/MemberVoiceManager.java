@@ -59,7 +59,9 @@ public class MemberVoiceManager {
              TODO: Clean up the unnecessary MemberVoiceHandlers when we are disconnected, moved, or are removed from the server.
             */
             if (vr.getGuild() == g && vr.getVc() == vc) {
-                vrs.remove(vr);
+                int index = vrs.indexOf(vr);
+                vrs.set(index, null);
+                vrs.remove(index);
                 return true;
             }
         }

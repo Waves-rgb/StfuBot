@@ -48,4 +48,8 @@ can you literally stop.
 This was not desired.
 piss off.
 Gonna have to block you.
+Reported and banned.
+No perms.
+Hello %GUILDNAME% user by the names of "%USERNAME%", but not limited to "loud retard", we (%GUILDNAME% as a whole, Prysm's members, and the Admins and Owners of Prysm LLC.) have made the executive decision to, remove your access of the #%VCNAME% channel, on the conditions that you have: Exceeded our volume limit for longer than 200ms. We are sorry for any inconveniences that this may have and will continue to cause. We know how annoying it can be for your access to a channel being removed, as stated in our terms of service, access removals are non-negotiable, and cannot be removed by our support team. If an access removal is found to be incorrect, or false; Your access removal will be lifted and you will be allowed to access the channel again, and an invite will be sent to you. This access removal will last until: September 11th 2021 11:54 AM, or until an administrator lifts the removal. We know how inconvenient and annoying it may be to be removed from #%VCNAME% in the %GUILDNAME% discord server, But unfortunately, as stated in our TOS, the removals are non-negotiable and will only be removed by an administrator of the server, or when they expire (as stated above). Thank you for choosing the %GUILDNAME% server.
 I am a bot, and this action was performed automatically. Please contact the moderators of "%GUILDNAME%" here: https://epic.waves.codes/auto-disconnect/modContact/questions-comments-concerns?referrer=stfubot-discord if you have any questions or concerns.
+null
